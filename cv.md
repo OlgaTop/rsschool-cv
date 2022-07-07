@@ -7,7 +7,7 @@
 
 <h5>2019  – current</h5> 
 
-<p>Website design and development</p>
+Website design and development
 
 <i>WEB-group, Kropyvnytskyi, Ukraine</i>
 <ul>
@@ -22,7 +22,7 @@
 
 <h5>1997 – 2003</h5> 
 
-<p>Ph.D.: Geography</p>
+Ph.D.: Geography
 
 <i>Taras Shevchenko National University of Kyiv, Ukraine</i>
 	
