@@ -1,13 +1,13 @@
 <h2>Olga Helevera</h2>
 <h1>JavaScript  Front End, WordPress  Developer</h1>
-<h3>Remote work</h3>
+<h4>Remote work</h4>
 <p>An energetic and responsible developer with experience creating and maintaining functional, attractive, and responsive websites. Experience with WordPress and other CMS. A clear understanding of website development and UI/UX design. Motivated to learn, grow and improve as a frontend developer.</p> 
 
 <h3>Work History</h3>
 
 <h5>2019  – current</h5> 
 	<h4>Website design and development</h4>
-<p>WEB-group, Kropyvnytskyi, Ukraine</p>
+<i>WEB-group, Kropyvnytskyi, Ukraine</i>
 <ul>
 <li>	Development of the design and appearance of user interfaces;</li>
 <li>	UI/UX research and optimization;</li>
@@ -20,7 +20,7 @@
 
 <h5>1997 – 2003</h5> 
 	<h4>Ph.D.: Geography</h4>
-<p>Taras Shevchenko National University of Kyiv, Ukraine</p>
+<i>Taras Shevchenko National University of Kyiv, Ukraine</i>
 	
 <h3>Courses</h3>
 
