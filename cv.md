@@ -6,9 +6,7 @@
 <h3>Work History</h3>
 
 <h5>2019  – current</h5> 
-
 Website design and development
-
 <i>WEB-group, Kropyvnytskyi, Ukraine</i>
 <ul>
 <li>	Development of the design and appearance of user interfaces;</li>
@@ -23,11 +21,9 @@ Website design and development
 <h5>1997 – 2003</h5> 
 
 Ph.D.: Geography
-
 <i>Taras Shevchenko National University of Kyiv, Ukraine</i>
 	
 <h3>Courses</h3>
-
 
 <h5>2018  – 2022</h5> 
 <ul>
