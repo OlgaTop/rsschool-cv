@@ -9,11 +9,11 @@
 	<h4>Website design and development</h4>
 <p>WEB-group, Kropyvnytskyi, Ukraine</p>
 <ul>
-<li>•	Development of the design and appearance of user interfaces;</li>
-<li>•	UI/UX research and optimization;</li>
-<li>•	The make-up of websites, templates, e-mail messages, landing Page, and interactive elements;</li>
-<li>•	Creating sites in WordPress using Woocommerce, Elementor;</li>
-<li>•	Front End: HTML5, CSS3/SASS, JS and UI-frameworks and libraries -  jQuery, React.js.</li>
+<li>	Development of the design and appearance of user interfaces;</li>
+<li>	UI/UX research and optimization;</li>
+<li>	The make-up of websites, templates, e-mail messages, landing Page, and interactive elements;</li>
+<li>	Creating sites in WordPress using Woocommerce, Elementor;</li>
+<li>	Front End: HTML5, CSS3/SASS, JS and UI-frameworks and libraries -  jQuery, React.js.</li>
 	</ul>
 
 <h3>EducatIon</h3>
@@ -27,9 +27,9 @@
 
 <h5>2018  – 2022</h5> 
 <ul>
-<li>•	Design System in Figma: DesignCode;</li>
-<li>•	HTML Academy: courses in HTML, CSS;</li>
-<li>•	Ш++ Programming School: Java, PHP;</li>
-<li>•	Prometheus: Basics of Web UI development 2020;</li>
-<li>•	FreeCodeCamp: JavaScript Algorithms and Data Structures.</li>
+<li>	Design System in Figma: DesignCode;</li>
+<li>	HTML Academy: courses in HTML, CSS;</li>
+<li>	Ш++ Programming School: Java, PHP;</li>
+<li>	Prometheus: Basics of Web UI development 2020;</li>
+<li>	FreeCodeCamp: JavaScript Algorithms and Data Structures.</li>
 </ul>
